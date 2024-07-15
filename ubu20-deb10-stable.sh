@@ -24,7 +24,7 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Auther : ${green}VPN - FREEDOM® ${NC}${YELLOW}(${NC} ${green} XPRESS ${NC}${YELLOW})${NC}"
+echo -e "  Auther : ${green}CAPCAPAN® ${NC}${YELLOW}(${NC} ${green} XPRESS ${NC}${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
@@ -299,8 +299,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="1626302370"
-KEY="6879615968:AAErYxZHEnmqystuGFD2Xl5R-l9Mwh-_plo"
+CHATID="-4243646448"
+KEY="7191971711:AAFtUTQVvU7ZFRU23FweM3MyJ4jAF2rYmsM"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
